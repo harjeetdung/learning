@@ -6,4 +6,4 @@ Fruits
 4) mosami
 5) Lemon
 6) lichi
-
+7) mango
